@@ -16,6 +16,4 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.database_study_main);
     }
-
-
 }
